@@ -1,5 +1,5 @@
-### Deuce Cents Official Website
-made by www.turnerboy.com
+### [Deuce Cents Official Website](https://www.deucecents.com/)
+made by [turnerboy](www.turnerboy.com)
 
 <!--
 **deucecents/deucecents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
